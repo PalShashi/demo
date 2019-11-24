@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce7228d2-28e9-475e-b4c8-7b5bc172cfc9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TNh3NdLInhmN0kKaPbFQbtfAbX" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RegressionSuite.productPriceFilter">
+    <configuration name="RegressionSuiteExcercise.addProductToBasketUsingFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.selenium.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.selenium.training" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.selenium.training.RegressionSuiteExcercise" />
+      <option name="METHOD_NAME" value="addProductToBasketUsingFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionSuiteExcercise.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.selenium.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.selenium.training" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.selenium.training.RegressionSuiteExcercise" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionSuiteExcercise.searchProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.selenium.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.selenium.training" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.selenium.training.RegressionSuiteExcercise" />
+      <option name="METHOD_NAME" value="searchProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionSuite.productPriceFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.selenium.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.selenium.training" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.selenium.training.RegressionSuite" />
+      <option name="METHOD_NAME" value="productPriceFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="currys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mavenit.selenium.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mavenit.selenium.training" />
+      <option name="MAIN_CLASS_NAME" value="com.mavenit.selenium.training.RunCukesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegressionSuite.productPriceFilter" />
+        <item itemvalue="JUnit.RunCukesTest" />
+        <item itemvalue="JUnit.RegressionSuiteExcercise.addProductToBasketUsingFilter" />
+        <item itemvalue="JUnit.RegressionSuiteExcercise.searchProduct" />
+        <item itemvalue="JUnit.RegressionSuiteExcercise.search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce7228d2-28e9-475e-b4c8-7b5bc172cfc9" name="Default Changelist" comment="" />
+      <created>1573306260650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573306260650</updated>
+    </task>
+    <servers />
+  </component>
+</project>
